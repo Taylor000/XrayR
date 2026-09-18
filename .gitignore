@@ -13,6 +13,8 @@ go.work
 main
 XrayR
 XrayR*
+!release/
+!release/**
 access.log
 error.log
 .lego
